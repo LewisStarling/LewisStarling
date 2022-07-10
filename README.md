@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LewisStarling
-- 👀 I’m interested in advanced games techincal design
-- 🌱 I’m currently in my 3rd studing computer games design at Staffordshire University 
+- 👀 I’m interested in games techincal design
+- 🌱 Computer Games Design graduate from Staffordshire University 
 - 📫 How to reach me ... lewisstarling01@hotmail.com
 
 <!---
